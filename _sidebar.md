@@ -1,0 +1,7 @@
+- <b>开始使用</b>
+  - [必要的阅读](/read)
+  - [下载与安装](/start)
+  - <li ><a style="color:red" href="#/problem">常见问题</a></li>
+  - [运行并开服](/kaifu)
+- [定制化](/dingzhi)
+- [<b>鸣谢</b>](/mengxie)
